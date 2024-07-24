@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39cda976-3568-46dd-b485-7e0907af2494" name="Changes" comment="upload logo image">
+    <list default="true" id="39cda976-3568-46dd-b485-7e0907af2494" name="Changes" comment="fixed footer and header issue in every page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/remixicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/remixicon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo-white.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-02.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
@@ -66,7 +68,7 @@
       <updated>1721655952424</updated>
       <workItem from="1721655966309" duration="1695000" />
       <workItem from="1721739548932" duration="1671000" />
-      <workItem from="1721799472636" duration="6641000" />
+      <workItem from="1721799472636" duration="13226000" />
     </task>
     <task id="LOCAL-00001" summary="changes in index page">
       <created>1721802375263</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721802702175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed footer and header issue in every page">
+      <created>1721806938027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806938027</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes in index page" />
     <MESSAGE value="upload logo image" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload logo image" />
+    <MESSAGE value="fixed footer and header issue in every page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed footer and header issue in every page" />
   </component>
 </project>
